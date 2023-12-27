@@ -11,8 +11,9 @@
 
 ### Socials
 
-[![LinkedIn](https://img.freepik.com/vecteurs-premium/logo-linkedin-carre-isole-fond-blanc_469489-892.jpg)](https://www.linkedin.com/in/votre-username/)
-
+<a href="https://www.linkedin.com/in/votre-username/">
+  <img src="https://img.freepik.com/vecteurs-premium/logo-linkedin-carre-isole-fond-blanc_469489-892.jpg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 <!--
 **Hisqkq/Hisqkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
