@@ -11,7 +11,7 @@
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/votre-username/">
+<a href="https://www.linkedin.com/in/théo-lavandier-4855b7268/">
   <img src="https://img.freepik.com/vecteurs-premium/logo-linkedin-carre-isole-fond-blanc_469489-892.jpg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
