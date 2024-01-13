@@ -6,7 +6,9 @@
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
 
 ### 🔨 Tech Stack  
-- Python, Java, Spark  
+- Python, Java, Spark
+- SQL, postgreSQL
+- noSQL, mongoDB
 - HTML, CSS, VueJS, JavaScript
 - Git, Docker
 
