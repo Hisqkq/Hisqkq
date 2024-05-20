@@ -2,7 +2,7 @@
 
 ### 🧏‍♂️ About me 
 📚 I’m currently in my First year of Master in Data Science at Bordeaux University.  
-🌱 I'm currently learning about statistics, machine learning, big data and data engineering.  
+🌱 I'm currently learning about statistics, machine learning, deep learning, big data and data engineering.  
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
 
 ### 🔨 Tech Stack  
