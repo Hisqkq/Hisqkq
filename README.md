@@ -3,7 +3,7 @@
 ### 🧏‍♂️ About me 
 📚 I’m currently in my First year of Master in Data Science at Bordeaux University.  
 🌱 I'm currently learning about statistics, machine learning, deep learning, big data and data engineering.  
-🔭 I am currently seeking a 6-month internship in the field of Data Science to complete my master's degree. If any companies have opportunities available, please do not hesitate to contact me.
+🔭 I am currently seeking a 6-month internship in the field of Data Science to complete my master's degree. If any companies have opportunities available, please do not hesitate to contact me.  
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
 
 ### Languages:
