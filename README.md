@@ -12,6 +12,10 @@
 - HTML, CSS, VueJS, JavaScript
 - Git, Docker
 
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq)](https://github.com/anuraghazra/github-readme-stats)
+```
+
 ### Socials
 
 <a href="https://www.linkedin.com/in/theo-lavandier/">
