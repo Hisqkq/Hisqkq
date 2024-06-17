@@ -1,4 +1,4 @@
-## Hi there, welcome to my GitHub profile 👋
+## Hi there, welcome to my GitHub profile 👋 
 
 ### 🧏‍♂️ About me 
 📚 I’m currently in my First year of Master in Data Science at Bordeaux University.  
