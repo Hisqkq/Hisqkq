@@ -22,9 +22,9 @@
 
 ### Data tools:
 
-| Jupyter | Spark | Postgres | SQLite | MongoDB | DataGrip |
-|----------|----------|----------|----------|----------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="datagrip" alt="datagrip" width="55" height="55"/>
+| Jupyter | Spark | Postgres | SQLite | MongoDB | DataGrip | Kaggle |
+|----------|----------|----------|----------|----------|---------|--------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="datagrip" alt="datagrip" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="55" height="55"/>
 
 
 
