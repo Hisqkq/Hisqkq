@@ -3,15 +3,25 @@
 🔭 **I am currently seeking a 6-month internship in the field of Data Science to complete my master's degree.** If any companies have opportunities available, please do not hesitate to contact me.  
 
 ### 🧏‍♂️ About me 
-📚 I’m currently in my First year of Master in Data Science at Bordeaux University.  
+🚀 Hi there, my name is Théo and I'm a French Data Science student.
+📚 I’m currently in my Second year of Master in Data Science at Bordeaux University.  
 🌱 I'm currently learning about statistics, machine learning, deep learning, big data and data engineering.  
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
+
+---
+
+### 🎓 Education
+- **[Radboud University, Nijmegen](https://www.ru.nl/en)**
+  - Computer Science & Data Science
+- **[University of Bordeaux](https://www.u-bordeaux.fr)**
+  - Mathematics, Computer Science & Data Science
 
 ### Languages:
 | Python3 | C | JS | R | Java |
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/> 
 
+---
   
 ### Best frameworks and main libraries for Python3:  
  
@@ -19,7 +29,7 @@
 |----------|----------|----------|----------|-----------|-----------|---------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://www.the-odd-dataguy.com/images/posts/20180226/cover.png" title="dash" alt="dash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/>|
 
-
+---
 
 ### Data tools:
 
@@ -29,7 +39,7 @@
 
 
 
-
+--- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq)](https://github.com/anuraghazra/github-readme-stats)
 
