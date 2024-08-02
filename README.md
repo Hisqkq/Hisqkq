@@ -42,9 +42,10 @@ ___
 |----------|----------|----------|----------|----------|---------|--------|-------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="datagrip" alt="datagrip" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="55" height="55"/>
 
+---
+
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq&layout=compact />
-  <img src=https://github-profile-trophy.vercel.app/?username=Hisqkq&row=2&column=4 />
+  <img src=https://github-profile-trophy.vercel.app/?username=Hisqkq&row=1&column=2 />
 </p>
 
 
