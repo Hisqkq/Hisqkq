@@ -8,13 +8,15 @@
 🌱 I'm currently learning about statistics, machine learning, deep learning, big data and data engineering.  
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
 
----
+___
 
 ### 🎓 Education
 - **[Radboud University, Nijmegen](https://www.ru.nl/en)**
   - Computer Science & Data Science
 - **[University of Bordeaux](https://www.u-bordeaux.fr)**
   - Mathematics, Computer Science & Data Science
+ 
+  ___
 
 ### Languages:
 | Python3 | C | JS | R | Java |
