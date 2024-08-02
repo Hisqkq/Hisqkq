@@ -41,5 +41,5 @@
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq\&hide_progress=true)
 
