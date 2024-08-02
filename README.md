@@ -16,7 +16,7 @@ ___
 - **[University of Bordeaux](https://www.u-bordeaux.fr)**
   - Mathematics, Computer Science & Data Science
  
-__
+___
 
 ### Languages:
 | Python3 | C | JS | R | Java |
