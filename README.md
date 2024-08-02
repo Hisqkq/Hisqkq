@@ -45,7 +45,7 @@ ___
 ---
 
 <p align="center">
-  <img src=https://github-profile-trophy.vercel.app/?username=Hisqkq&row=1&column=2 />
+  <img src=https://github-profile-trophy.vercel.app/?username=Hisqkq&row=1&column=1 />
 </p>
 
 
