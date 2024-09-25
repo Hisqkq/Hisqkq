@@ -5,7 +5,7 @@
 ### 🧏‍♂️ About me 
 🚀 Hi there, my name is Théo and I'm a French Data Science student.
 📚 I’m currently in my Second year of Master in Data Science at Bordeaux University.  
-🌱 I'm currently learning about statistics, machine learning, deep learning, big data and data engineering.  
+🌱 I'm currently learning about statistics, machine learning, deep learning, big data and computer vision.  
 📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
 
 
