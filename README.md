@@ -24,8 +24,6 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/> 
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisqkq\&hide_progress=true)
-
 <br>
 </details>
 
@@ -55,9 +53,5 @@
 </details>
 
 ---
-
-<p align="center">
-  <img src=https://github-profile-trophy.vercel.app/?username=Hisqkq&row=1&column=1 />
-</p>
 
 
