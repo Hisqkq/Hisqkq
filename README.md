@@ -24,22 +24,24 @@
     </ul>
   </div>
 
-  <!-- Programming Languages -->
-  <div style="margin-bottom:20px;">
-    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Programming Languages</h2>
-    <p style="margin:10px 0;">
+<!-- Collapsible Tech Stack Section -->
+<details>
+  <summary style="cursor:pointer; font-weight:bold; color:#007acc;">
+    Show Tech Stack
+  </summary>
+  <div style="margin-top:10px;">
+    <!-- Programming Languages -->
+    <p>
+      <strong>Programming Languages:</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
     </p>
-  </div>
-
-  <!-- Python Libraries & Tools -->
-  <div style="margin-bottom:20px;">
-    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Python Libraries &amp; Tools</h2>
-    <p style="margin:10px 0;">
+    <!-- Python Libraries & Tools -->
+    <p>
+      <strong>Python Libraries &amp; Tools:</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
@@ -48,12 +50,9 @@
       <img src="https://www.the-odd-dataguy.com/images/posts/20180226/cover.png" alt="Dash" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
     </p>
-  </div>
-
-  <!-- Data Tools -->
-  <div style="margin-bottom:20px;">
-    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Data Tools</h2>
-    <p style="margin:10px 0;">
+    <!-- Data Tools -->
+    <p>
+      <strong>Data Tools:</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
@@ -65,4 +64,5 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="RStudio" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
     </p>
   </div>
-</div>
+</details>
+
