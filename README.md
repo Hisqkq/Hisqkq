@@ -1,55 +1,68 @@
-## Hi there, welcome to my GitHub profile 👋
+<div style="max-width:700px; margin:auto; font-family: Arial, sans-serif; color:#333;">
+  <!-- Header -->
+  <div style="text-align:center; padding:40px 0;">
+    <h1 style="font-size:2.5em; margin:0.2em 0;">Hello, I'm Theo</h1>
+    <p style="font-size:1.2em; color:#666;">Data Science Graduate Student</p>
+  </div>
+  <hr style="border:none; border-top:1px solid #ddd; margin:20px 0;">
 
-### 🧏‍♂️ About me 
-🚀 Hi there, my name is Théo and I'm a French Data Science student.
-📚 I’m currently in my Second year of Master in Data Science at Bordeaux University.  
-🌱 I'm currently learning about statistics, machine learning, deep learning, computer vision & Networks.  
-📫 How to reach me: send me an email to theo.lavandier@etu.u-bordeaux.fr  
+  <!-- About Me -->
+  <div style="margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">About Me</h2>
+    <p style="line-height:1.6;">
+      I'm a passionate data science student from France, currently in the second year of my Master's at the University of Bordeaux. I enjoy exploring statistics, machine learning, deep learning, computer vision, and networks. I also like web development and creating good-looking websites and dashboards.
+    </p>
+    <p><strong>Contact:</strong> <a href="mailto:theo.lavandier@etu.u-bordeaux.fr">theo.lavandier@etu.u-bordeaux.fr</a></p>
+  </div>
 
+  <!-- Education -->
+  <div style="margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Education</h2>
+    <ul style="line-height:1.6;">
+      <li><strong>Radboud University, Nijmegen</strong> – Computer Science &amp; Data Science</li>
+      <li><strong>University of Bordeaux</strong> – Mathematics, Computer Science &amp; Data Science</li>
+    </ul>
+  </div>
 
-### 🎓 Education
-- **[Radboud University, Nijmegen](https://www.ru.nl/en)**
-  - Computer Science & Data Science
-- **[University of Bordeaux](https://www.u-bordeaux.fr)**
-  - Mathematics, Computer Science & Data Science
+  <!-- Programming Languages -->
+  <div style="margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Programming Languages</h2>
+    <p style="margin:10px 0;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="Scala" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+    </p>
+  </div>
 
- <details>
-  <summary><strong> Programming Languages </strong> <sub> (click to expand) </sub></summary>
-  <br>
+  <!-- Python Libraries & Tools -->
+  <div style="margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Python Libraries &amp; Tools</h2>
+    <p style="margin:10px 0;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://www.the-odd-dataguy.com/images/posts/20180226/cover.png" alt="Dash" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="Plotly" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+    </p>
+  </div>
 
-| Python3 | Scala | JS | R | Java |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/> 
-  
-
-<br>
-</details>
-
-  
- <details>
-  <summary><strong> Python Libraries & Frameworks </strong> <sub> (click to expand) </sub></summary>
-  <br>
- 
-| Pytorch | Numpy | Pandas | Sklearn | Matplotlib | Dash | Plotly |
-|----------|----------|----------|----------|-----------|-----------|---------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://www.the-odd-dataguy.com/images/posts/20180226/cover.png" title="dash" alt="dash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/>|
-
-
-<br>
-</details>
-
-
- <details>
-  <summary><strong> Data Tools </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-| Jupyter | Spark | Postgres | SQLite | MongoDB | DataGrip | Kaggle | VSCode | Rstudio |
-|----------|----------|----------|----------|----------|---------|--------|-------|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="datagrip" alt="datagrip" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="55" height="55"/>
-
-<br>
-</details>
-
----
-
-
+  <!-- Data Tools -->
+  <div style="margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #007acc; display:inline-block;">Data Tools</h2>
+    <p style="margin:10px 0;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="RStudio" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+    </p>
+  </div>
+</div>
